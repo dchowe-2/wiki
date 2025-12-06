@@ -31,19 +31,19 @@ ECE majors typically take PHYS213 and [PHYS214](PHYS214.md) during the same seme
 
 ## Course Structure
 
-PHYS213 holds 3 lectures per week, with prelectures and checkpoints to complete before each lecture. Usually, two lectures are spent covering new content and the 3rd lecture is a lecture that goes over examples. The prelectures and checkpoints are where students will do most of the learning, with the lectures being mainly for reexplaination and clarification. 
+PHYS213 holds 2 50-minute lectures per week, with prelecture readings and smartphysics checkpoints to complete before each lecture. Participation in lectures is tracked using iClickers, and the attendence grades for 5 of the 15 lectures can be dropped. Additionally, in place of having lectures on fridays, students have the option to follow along with videos working through problems relevant to the lectures. Participation with the weekly videos is not tracked. The prelectures and checkpoints are where students will do most of the learning, with the lectures being mainly for reexplaination and clarification. 
 
 Homework is assigned after each lecture in smartPhysics (free for PHYS213). The homework for each week's lectures are typically due at the same time early during the following week.
 
-There are 2 midterm exams and 1 final exam, all taken through Prarielearn at the CBTF. 
+There are 2 midterm exams and 1 final exam, all taken through Prarielearn at the CBTF. A few practice exams are available on Prairielearn.
 
-There are 3 bi-weekly labs. 
+There are 3 bi-weekly labs, each 2 hours long, in which students work in groups to test equations and relationships learned in the lectures.
 
-There are 7 weekly discussions. These are extremely helpful is getting detailed explanations and clarification from the TAs. 
+There are 7 weekly discussions. These are extremely helpful for getting detailed explanations and clarification from the TAs. Also, they are graded solely on participation, not correctness.
 
 ## Instructors
 
-In the past, this course has been taught by Professors Wagner and Covey.
+Most recently, this course has been taught by Professors Cohen and Mahmood.
 
 ## Course Tips
 
@@ -57,6 +57,7 @@ Students who wish to go more in depth into thermal physics should take the under
 
 ## Infamous Topics
 
-- Entropy: It is a very strange concept, so watching the prelecture a few times is recommended.
+- Entropy: It is a very strange concept, so reading the prelecture a few times is recommended.
 
 ## Resources
+The course website can be found near the bottom of [this page](https://physics.illinois.edu/academics/courses/PHYS213).
