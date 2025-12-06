@@ -4,7 +4,7 @@
 
 ## Who Should Take the Exam
 
-For students who have a solid physics background or who want to finish the class early, they should take the proficiency exam. There is no penalty for failing the PHYS214 proficiency exam. If you fail the exam, you can still take the class.
+For students who have a solid physics background or who want to finish the class early, they should take the proficiency exam. There is no penalty for failing the PHYS214 proficiency exam. However, you may only take the proficiency once during your time at the university, so make sure you are well prepared. If you fail the exam, you can still take the class.
 
 ## Content Covered
 
@@ -17,11 +17,11 @@ For students who have a solid physics background or who want to finish the class
 
 ## Exam Format
 
-The exam consists of both multiple choice and fill in the blank questions given through Prairietest at CBTF. The content is similar to that of the class's final exams. The assigned grade is Pass or Fail. An 80% score is required to receive a passing grade. A electronic formula sheet will be given in the exam. The exam is also used as a makeup exam for students who missed the final exam in a previous semester. 
+The exam consists of both multiple choice and fill in the blank questions given through Prairietest at CBTF. The content is similar to that of the class's final exams. The assigned grade is Pass or Fail. An 80% score is required to receive a passing grade. A electronic formula sheet will be given in the exam. The formula sheet contains more information than the given one on prarielearn. The exam is also used as a makeup exam for students who missed the final exam in a previous semester. 
 
 ## How to Prepare
 
-Lecture recordings are available on [media space](https://mediaspace.illinois.edu/channel/Physics+214+Summer+2020/165144871). Register for the PHYS214 proficiency exam through Physics department's [proficiency exam website](https://physics.illinois.edu/academics/courses/proficiency-exams). A few weeks before the proficiency exam, you will find a class on PrairieLearn labeled "PHYS 214: University Physics Quantum & Modern, PHYS 214 Study Exams." The study exams on PrarieLearn is very similar to the actual exam. They are the best tool to study.
+Lecture recordings are available on [media space](https://mediaspace.illinois.edu/channel/Physics+214+Summer+2020/165144871). You can also find previous lecture slides at [syllabus](https://courses.physics.illinois.edu/phys214/sp2012/syllabus.html). Register for the PHYS214 proficiency exam through Physics department's [proficiency exam website](https://physics.illinois.edu/academics/courses/proficiency-exams). A few weeks before the proficiency exam, you will find a class on PrairieLearn labeled "PHYS 214: University Physics Quantum & Modern, PHYS 214 Study Exams." The study exams on PrarieLearn is very similar to the actual exam. They are the best tool to study.
 
 ## Life After
 

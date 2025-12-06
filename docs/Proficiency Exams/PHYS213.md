@@ -4,7 +4,7 @@
 
 ## Who Should Take the Exam
 
-For students who have a solid physics background or who want to finish the class early, they should take the proficiency exam. There is no penalty for failing the PHYS213 proficiency exam. If you fail the exam, you can still take the class.
+For students who have a solid physics background or who want to finish the class early, they should take the proficiency exam. There is no penalty for failing the PHYS213 proficiency exam. However, you may only take the proficiency once during your time at the university, so make sure you are well prepared. If you fail the exam, you can still take the class. 
 
 ## Content Covered
 
