@@ -25,23 +25,23 @@ The official prerequisite for PHYS214 is [PHYS212](PHYS212.md), although there i
 
 ## When to Take It
 
-ECE majors typically take PHYS213 and [PHYS214](PHYS214.md) during the same semester after taking [PHYS212](PHYS212.md). The two courses are designed to be taken in the same semester and in opposite halves, so it ends up filling roughly the same amount of time as a normal 4 credit hour, with the content changing halfway through.
+ECE majors typically take PHYS213 and [PHYS214](PHYS214.md) during the same semester after taking [PHYS212](PHYS212.md). The two courses are designed to be taken in the same semester and in opposite halves, so it ends up filling roughly the same amount of time as a normal 4 credit hour, with the content changing halfway through. Additionally, PHYS214 is a prerequitite for taking ECE340, a required course for electrical engineering students.
 
 ## Course Structure
 
-PHYS214 holds 3 lectures per week, with prelectures and checkpoints to complete before each lecture. The prelectures and checkpoints are where students will do most of the learning, with the lectures being mainly for reexplaination and clarification. 
+PHYS214 holds 2 50-minute lectures per week, with prelecture readings and smartphysics checkpoints to complete before each lecture. Participation in lectures is tracked using iClickers, and the attendence grades for 5 of the 15 lectures can be dropped. Additionally, in place of having lectures on fridays, students have the option to follow along with videos working through problems relevant to the lectures. Participation with the weekly videos is not tracked. The prelectures and checkpoints are where students will do most of the learning, with the lectures being mainly for reexplaination and clarification. 
 
 Homework is assigned after each lecture in smartPhysics (free for PHYS214). The homework for each week's lectures are typically due at the same time early during the following week.
 
-There are 2 midterm exams and 1 final exam, all taken through Prarielearn at the CBTF. 
+There are 2 midterm exams and 1 final exam, all taken through Prarielearn at the CBTF. A few practice exams are available on Prairielearn.
 
-There are 3 bi-weekly labs.
+There are 3 bi-weekly labs, each 2 hours long, in which students make use of equations and relationships learned in the lectures. Diffraction is used heavily in all three of the labs.
 
-There are 7 weekly discussions. These are extremely helpful in getting detailed explanations and clarification from the TAs. 
+There are 7 weekly discussions. These are extremely helpful in getting detailed explanations and clarification from the TAs. Also, they are graded solely on participation, not correctness.
 
 ## Instructors
 
-In the past, this course has been taught by Professors Wagner and Covey.
+Most recently, this course has been taught by Professors Cohen and Mahmood.
 
 ## Course Tips
 
@@ -56,3 +56,4 @@ The introduction to waves and the weird world of quantum physics leads into EE c
 - Wave Particle Duality: If you have never been introduced to this it is very wacky. Just hold on tight!
 
 ## Resources
+The course website can be found near the bottom of [this page](https://physics.illinois.edu/academics/courses/PHYS214).
