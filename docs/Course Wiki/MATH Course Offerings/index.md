@@ -8,4 +8,5 @@ The following list contains all math courses that currently have an active wiki 
 - [MATH241](MATH241.md) - Calculus III
 - [MATH257](MATH257.md) - Linear Algebra with Computational Applications
 - [MATH285](MATH221.md) - Intro Differential Equations
+- [MATH416](MATH416.md) - Abstract Linear Algebra
 - [MATH447](MATH221.md) - Real Variables
