@@ -7,7 +7,7 @@ To fulfill your advanced composition credit as an ECE major, you have a few opti
 A common option as CE major is to take [ECE411](ECE%20Course%20Offerings/ECE411.md) to fulfill your design requirment, leaving you to have to find another way to fulfill the advanced composition requirement. 
 
 Here are some good (easy, low-effort) classes:
-- BTW 261
-- BTW 250
+- BTW261
+- BTW250
 
-You can also use <https://waf.cs.illinois.edu/discovery/every_gen_ed_at_uiuc_by_gpa/> to find information about the grade disparity for different Gen Ed courses
+You can also use <https://waf.cs.illinois.edu/discovery/every_gen_ed_at_uiuc_by_gpa/> to find information about the grade disparity for different gen ed courses.
