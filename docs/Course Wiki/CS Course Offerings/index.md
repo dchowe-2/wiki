@@ -16,7 +16,7 @@ The following list contains all CS courses that currently have an active wiki pa
 - [CS426](CS426.md) - Compiler Construction
 - [CS434](CS434.md) - Real-World Algorithms for IoT and Data Science
 - [CS438](CS438.md) - Communication Networks
-- [CS440](ECE448.md) - Artificial Intelligence
+- [CS440](ECE%20Course%20Offerings/ECE448.md) - Artificial Intelligence
 - [CS446](CS446.md) - Machine Learning
 - [CS450](CS450.md) - Numerical Analysis
 - [CS461](CS461.md) - Computer Security I
