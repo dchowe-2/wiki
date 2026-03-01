@@ -12,7 +12,7 @@ The following list contains all CS courses that currently have an active wiki pa
 - [CS418](CS418.md) - Interactive Computer Graphics
 - [CS421](CS421.md) - Programming Languages and Compilers
 - [CS423](CS423.md) - Operating System Design
-- [CS425](CS425.md) - Distributed Systems
+- [CS425](../ECE%20Course%20Offerings/ECE428.md) - Distributed Systems
 - [CS426](CS426.md) - Compiler Construction
 - [CS434](CS434.md) - Real-World Algorithms for IoT and Data Science
 - [CS438](CS438.md) - Communication Networks
