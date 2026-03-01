@@ -14,12 +14,12 @@ The following list contains all CS courses that currently have an active wiki pa
 - [CS423](CS423.md) - Operating System Design
 - [CS425](../ECE%20Course%20Offerings/ECE428.md) - Distributed Systems
 - [CS426](CS426.md) - Compiler Construction
-- [CS434](CS434.md) - Real-World Algorithms for IoT and Data Science
-- [CS438](CS438.md) - Communication Networks
+- [CS434](../ECE%20Course%20Offerings/ECE434.md) - Real-World Algorithms for IoT and Data Science
+- [CS438](../ECE%20Course%20Offerings/ECE438.md) - Communication Networks
 - [CS440](../ECE%20Course%20Offerings/ECE448.md) - Artificial Intelligence
-- [CS446](CS446.md) - Machine Learning
-- [CS450](CS450.md) - Numerical Analysis
-- [CS461](CS461.md) - Computer Security I
-- [CS463](CS463.md) - Computer Security II
-- [CS483](CS483.md) - Applied Parallel Programming
+- [CS446](../ECE%20Course%20Offerings/ECE449.md) - Machine Learning
+- [CS450](../ECE%20Course%20Offerings/ECE491.md) - Numerical Analysis
+- [CS461](../ECE%20Course%20Offerings/ECE422.md) - Computer Security I
+- [CS463](../ECE%20Course%20Offerings/ECE424.md) - Computer Security II
+- [CS483](../ECE%20Course%20Offerings/ECE408.md) - Applied Parallel Programming
 - [CS498GC](CS498GC.md) - Mobile Robotics for CS
